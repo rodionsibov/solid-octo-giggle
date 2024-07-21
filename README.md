@@ -9,4 +9,6 @@ git clone https://github.com/rodionsibov/verbose-barnacle frontend
 cd cms && npm install
 cd ../frontend && npm install
 cd ../dev-config && docker compose up
+http://localhost:4200/
+http://localhost:1337/admin/
 ```
